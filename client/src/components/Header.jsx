@@ -5,7 +5,7 @@ import { FaSearch } from "react-icons/fa";
 
 const Header = () => {
   return (
-    <header className="bg-gradient-to-r from-cyan-800 to-blue-400">
+    <header className="bg-gradient-to-r from-cyan-700 to-cyan-500">
       <div className="flex justify-between items-center p-3 mx-auto">
         <Link to="/">
           <img
